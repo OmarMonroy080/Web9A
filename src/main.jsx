@@ -18,4 +18,4 @@ const GetHeroeByIdAsync  = async (id) => {
         ,2000);
 }
 
-GetHeroeByIdAsync(2);
+GetHeroeByIdAsync(3);
